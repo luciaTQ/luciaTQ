@@ -7,11 +7,11 @@
        
 ## 🏆 GitHub Trophies
 <p align="center">&nbsp;
-  <a><img src="https://github-profile-trophy.vercel.app/?username=SamaritanoDev&row=2&column=4&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4" /></a>
+  <a><img src="https://github-profile-trophy.vercel.app/?username=luciaTQ&row=2&column=4&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4" /></a>
  </p>
  
 ## 💫 About Me
-- 🔭 I’m currently working on [Flutterina Studio.](https://www.instagram.com/flutterinastudio/)  
+- 🔭 I’m currently working on [alucia_tq.](https://www.instagram.com/alucia_tq/)  
 -  📚I’m currently learning Swift and BLoC.  
 - ❓ Ask me about anything related to Flutter and Content Creation.   
 - 💙 Fun fact: I like the Pomodoro technique.  
@@ -20,9 +20,9 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/lesly-samaritano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lesly-samaritano" height="30" width="40" /></a>
-<a href="https://instagram.com/samaritano.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samaritano.dev" height="30" width="40" /></a>
-<a href="https://discord.gg/samaritanodev#4038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samaritanodev#4038" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lesly-anyi.tq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lesly-anyi.tq" height="30" width="40" /></a>
+<a href="https://instagram.com/anyi.tq.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anyi.tq.dev" height="30" width="40" /></a>
+<a href="https://discord.gg/anyi.tqdev#4038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anyi.tqdev#4038" height="30" width="40" /></a>
 </p>
 
 ## 💻 Tech Stack:
@@ -48,17 +48,17 @@
 ## 📊 GitHub Stats:
 <p align="center">&nbsp;
   <a><img  alt="SamaritanoDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamaritanoDev&show_icons=true&theme=aura" width="450" height="200" /></a>
-  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=samaritanodev&show_icons=true&theme=aura" alt="samaritanodev" width="450" height="200"/></a>
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=anyi.tqdev&show_icons=true&theme=aura" alt="anyi.tqdev" width="450" height="200"/></a>
  </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samaritanodev&show_icons=true&theme=aura" alt="samaritanodev"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anyi.tqdev&show_icons=true&theme=aura" alt="anyi.tqdev"/></p>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SamaritanoDev#4038) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flutterinastudio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samaritanodev) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@flutterinastudio) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/SamaritanoDev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/samaritanoayala) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@flutterinastudio) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SamaritanoDev#4038) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flutterinastudio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anyi.tqdev) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@flutterinastudio) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/SamaritanoDev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anyi.tqayala) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@flutterinastudio) 
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=samaritanoayala)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=anyi.tqayala)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![](https://visitcount.itsvg.in/api?id=samaritanodev&icon=4&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=anyi.tqdev&icon=4&color=10)](https://visitcount.itsvg.in)
