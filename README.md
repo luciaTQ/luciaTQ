@@ -1,7 +1,7 @@
 <!--<img align="center" src="https://user-images.githubusercontent.com/91768959/136720579-5e62a216-7a68-4509-bb6c-08f1f93b8901.gif" width="1000" height="450" /> -->
 <!--<img align="center" src="https://user-images.githubusercontent.com/91768959/136721567-c55c78e4-d4f2-487d-b093-f8abcca1bd76.png" width="1000" height="480" /> -->
 
-  <h1 align="center">Hi 👋, I'm Lesly Samaritano, a Freelancer as a mobile app developer using Flutter since 2023 📱👩🏽‍💻 and an Ambassador for Women Techmakers🚀</h1>     <h3 align="center">A passionate frontend developer in Flutter</h3>
+  <h1 align="center">Hi 👋, I'm Anyi Tandazo , a Freelancer as a mobile app developer using Flutter since 2023 📱👩🏽‍💻 and an Ambassador for Women Techmakers🚀</h1>     <h3 align="center">A passionate frontend developer in Flutter</h3>
      <p align="center">
       <a><img src="https://github.com/SamaritanoDev/SamaritanoDev/assets/91768959/6a2fb19d-dc94-4741-8314-9e4f670f3f0a" align="center" style="width: 100" /></a>
        
